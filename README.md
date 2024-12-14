@@ -1,1 +1,0 @@
-# survitac.github.io
