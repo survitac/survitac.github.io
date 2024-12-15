@@ -1,0 +1,23 @@
+- key: Name
+  value: SURVITAC
+- key: Description
+  value:
+    - Hello!
+    - This is SURVITAC website
+    - Looks like JSON
+  typed: true
+- key: Address
+  value:
+    - 609 Miyamasuzaka building
+    - 2-19-15 Shibuya,
+    - Shibuya-ku, Tokyo-to 150-0002
+    - Japan
+- key: Contact
+  value:
+    - key: Email
+      value: survitac@protonmail.com
+      url: "mailto:survitac@protonmail.com"
+- key: エフスタ!!抽選
+  value:
+    - value: Microsoft Store
+      url: https://apps.microsoft.com/detail/9wzdncrdn0g3
