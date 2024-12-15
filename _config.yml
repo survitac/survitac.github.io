@@ -1,6 +1,6 @@
 title: Hacked Jekyll
 description: Jekyll microtheme that looks like JSON
-baseurl: https://survitac.github.io
+baseurl: ""
 url: https://survitac.github.io
 
 # theme: hacked-jekyll
