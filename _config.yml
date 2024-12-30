@@ -1,7 +1,7 @@
 title: SURVITAC
-description: Jekyll microtheme that looks like JSON
+description: SURVITAC Website that looks like JSON
 baseurl: ""
-url: https://survitac.github.io
+url: https://survitac.jp
 
 # theme: hacked-jekyll
 remote_theme: piazzai/hacked-jekyll
